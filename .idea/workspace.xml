@@ -2,27 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60b820e2-98bc-4e8e-8dd4-23374b250009" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/spring_cloud.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka2/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka2/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka2/src/main/java/com/alteza/eureka/EurekaApplication2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka2/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka2/src/test/java/com/alteza/eureka/EurekaApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka3/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka3/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka3/src/main/java/com/alteza/eureka/EurekaApplication3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka3/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka3/src/test/java/com/alteza/eureka/EurekaApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka_client/src/main/java/com/example/eureka_client/Controller/IndexController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eureka/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka_client/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka_client/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka2/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka2/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka3/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka3/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eureka_client/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka_client/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,9 +50,7 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="E:\repository" />
-        <option name="mavenHome" value="D:/Program Files (x86)/apache-maven-3.6.1" />
-        <option name="userSettingsFile" value="D:\Program Files (x86)\apache-maven-3.6.1\conf\settings.xml" />
+        <option name="mavenHome" value="D:/Program Files (x86)/apache-maven-3.6.0" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -99,7 +82,7 @@
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -181,7 +164,7 @@
           <expand>
             <path>
               <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@14b2f4bd" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@53fab8bb" type="7427dc5b:ServiceModel$ServiceGroupNode" />
             </path>
           </expand>
           <select />
@@ -210,6 +193,7 @@
       <workItem from="1564410644978" duration="953000" />
       <workItem from="1564497764006" duration="4260000" />
       <workItem from="1564502773963" duration="762000" />
+      <workItem from="1564540537777" duration="3928000" />
     </task>
     <task id="LOCAL-00001" summary="spring_cloud">
       <created>1564072468846</created>
